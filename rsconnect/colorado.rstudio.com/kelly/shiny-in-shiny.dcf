@@ -1,0 +1,12 @@
+name: shiny-in-shiny
+title: Shiny-in-Shiny
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2695
+bundleId: 26340
+url: https://colorado.rstudio.com/rsc/content/2695/
+when: 1564174995.20868
+asMultiple: FALSE
+asStatic: FALSE
