@@ -1,6 +1,5 @@
 #
 #
-#
 
 library(shiny)
 library(gitlink)
@@ -10,7 +9,7 @@ ui <- fluidPage(
 
     # Application title
     titlePanel("Old Faithful Geyser Data"),
-    ribbon_css("mylink.com", color = "black", font_color = "white", border_color = "white"),
+    ribbon_css("https://github.com/kellobri/shiny-nesting-dolls", color = "black", font_color = "white", border_color = "white"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
